@@ -37,5 +37,5 @@
 1. *Clone โปรเจค:*
    ```bash
    git clone https://github.com/wongsarat7006-lang/TaskSplit02
-   cd ชื่อโปรเจค
+   cd project-name
    code .
